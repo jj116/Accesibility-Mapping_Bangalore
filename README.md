@@ -1,11 +1,11 @@
-#Methodology
+# Methodology
 The pedestrian accessibility score determines how easy it is for a citizen to walk for different daily requirements. We break-down pedestrian accessibility into two factors - 
 Permeability of the area (the density of the street network)
 Availability of amenities catering to diverse requirements (mixed-use availability) and public transit, i.e. proximity to bus stop and metro stations
 
 Hence, we define the “Pedestrian accessibility score” as the distance to the sixth closest amenity, to suitably account for both permeability and mixed-use availability. This score does not however consider other factors that affect pedestrian walkability such as comfort, shading, infrastructure, etc.
 
-##Data
+## Data
 Based on data available from Open data maps, we have been able to calculate a “Pedestrian Accessibility score”. The amenities considered are: 
 ‘School'
 'Bank'
